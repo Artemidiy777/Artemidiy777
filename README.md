@@ -1,34 +1,14 @@
-![Artem · Machine learning and applied mathematics. A gradient descent path follows the contours of a loss function.](./assets/profile.png)
+Computer Science and Engineering student at **MISIS University**.
 
-I'm Artem, a **Computer Science and Engineering** student at **MISIS University**. I like taking a formula apart on paper and rebuilding it in Python. Right now I'm working through gradient descent and regularization, alongside SQL on real datasets.
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-426B83?style=for-the-badge&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-CA442E?style=for-the-badge&logo=pytorch&logoColor=white) ![CatBoost](./assets/catboost.svg)
 
-## Hackathons
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-A94531?style=for-the-badge&logo=git&logoColor=white)
 
-### 🥈 SaluteAgent · ShortHack
-**2nd place · Sber hackathon, SberTech challenge**
+### Hackathons
 
-Our team built a support assistant that searches a knowledge base, cites the instructions behind each answer, and checks whether those sources support its claims. If a claim still fails verification after a rewrite, a human operator gets the ticket. [Explore SaluteAgent →](https://github.com/nighttcrawlerr/ShortHack)
+- [SaluteAgent](https://github.com/nighttcrawlerr/ShortHack) · 2nd place, Sber ShortHack
+- [Hotel Search](https://github.com/ostrovok-hackathon-2026/misis-who-is-os) · Ostrovok Hackathon
 
-### Ostrovok Hackathon · Hotel search
-**Geospatial engineering · Team MISIS Who Is OS**
+### Projects
 
-Can a guest actually see the sea from their room? I worked on the calculations behind that question, using building footprints, floor levels, and façade orientation to estimate sea views and sunlight. Each estimate carries its source and confidence level. [Team repository →](https://github.com/ostrovok-hackathon-2026/misis-who-is-os)
-
-## Selected work
-
-| Project | Inside |
-| :-- | :-- |
-| [**Trajectory** ↗](https://artemidiy777.github.io/way_to_money/) | An interactive ML study guide with a dependency-aware roadmap, math exercises, SQL practice, and an offline edition. [Source](https://github.com/Artemidiy777/way_to_money) |
-| [**Machine Learning Notebooks** ↗](https://github.com/Artemidiy777/FPMI_ML) | My work through the Deep Learning School course, including linear regression in NumPy and experiments with gradient descent and regularization. |
-| [**Python Labs** ↗](https://github.com/Artemidiy777/python_labs) | University coursework spanning text-processing CLIs, file conversion, sorting benchmarks, and linked data structures. |
-
-## Tools I use and explore
-
-<p>
-  <img src="./assets/python.svg" alt="Python">
-  <img src="./assets/pytorch.svg" alt="PyTorch">
-  <img src="./assets/catboost.svg" alt="CatBoost">
-  <img src="./assets/scikitlearn.svg" alt="scikit-learn">
-  <img src="./assets/postgresql.svg" alt="PostgreSQL">
-  <img src="./assets/docker.svg" alt="Docker">
-</p>
+[ML Notebooks](https://github.com/Artemidiy777/FPMI_ML) · [Trajectory](https://artemidiy777.github.io/way_to_money/) · [Python Labs](https://github.com/Artemidiy777/python_labs)
