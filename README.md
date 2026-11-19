@@ -1,13 +1,15 @@
 **Machine learning** · Computer Science and Engineering student at MISIS University.
 
-### Hackathons
-
-<a href="https://github.com/nighttcrawlerr/ShortHack"><img src="./assets/shorthack.svg" width="336" alt="SaluteAgent — AI support assistant. Second place at Sber ShortHack."></a>
-<a href="https://github.com/ostrovok-hackathon-2026/misis-who-is-os"><img src="./assets/ostrovok.svg" width="336" alt="Hotel Search — sea views and sunlight estimates. Ostrovok Hackathon."></a>
-
 ### Selected projects
 
+[**Capital · Dispatch Risk**](https://github.com/Artemidiy777/capital) — ranks shipments for review by their risk of late delivery.
+
 [ML Notebooks](https://github.com/Artemidiy777/FPMI_ML) · [Trajectory](https://artemidiy777.github.io/way_to_money/) · [Python Labs](https://github.com/Artemidiy777/python_labs)
+
+### Hackathons
+
+- 🥈 [SaluteAgent](https://github.com/nighttcrawlerr/ShortHack) · 2nd place, Sber ShortHack
+- [Hotel Search](https://github.com/ostrovok-hackathon-2026/misis-who-is-os) · Ostrovok Hackathon
 
 ### Toolbox
 
